@@ -1,0 +1,4 @@
+- Start Docker Desktop
+- type   docker build -t getaround-api .
+- let it run through the dependencies, it can take a minute
+- docker run -p 8000:8000 getaround-api
