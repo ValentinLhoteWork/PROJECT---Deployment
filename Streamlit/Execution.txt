@@ -1,0 +1,4 @@
+- Start Docker Desktop
+- type   docker build -t getaround-streamlit .
+- let it run through the dependencies, it can take a minute
+- type   docker run -p 8501:8501 getaround-streamlit
