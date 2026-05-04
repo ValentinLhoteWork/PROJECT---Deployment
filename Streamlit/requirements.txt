@@ -1,0 +1,9 @@
+uvicorn
+streamlit
+pandas
+scikit-learn
+openpyxl
+numpy
+plotly
+seaborn
+statsmodels
