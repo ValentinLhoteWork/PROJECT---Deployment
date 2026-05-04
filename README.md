@@ -1,3 +1,12 @@
+###  Live API:
+https://vallho-getaround-api-hf.hf.space
+
+### Documentation:
+https://vallho-getaround-api-hf.hf.space/docs
+
+### Predict endpoint:
+POST https://vallho-getaround-api-hf.hf.space/predict
+
 # PROJECT - Deployment
 ## Getaround Analysis 🚗
 
