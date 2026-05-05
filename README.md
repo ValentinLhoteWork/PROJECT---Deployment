@@ -7,7 +7,7 @@ https://vallho-getaround-api-hf.hf.space/docs
 ### Predict endpoint:
 POST https://vallho-getaround-api-hf.hf.space/predict
 
-## Website
+## Website Streamlit
 
 ### Overview page 
 
