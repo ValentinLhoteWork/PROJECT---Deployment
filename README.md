@@ -7,6 +7,28 @@ https://vallho-getaround-api-hf.hf.space/docs
 ### Predict endpoint:
 POST https://vallho-getaround-api-hf.hf.space/predict
 
+## Website
+
+### Overview page 
+
+<img width="2495" height="1443" alt="overview page" src="https://github.com/user-attachments/assets/3fb53a80-c7d9-445e-9668-859a59882ec8" />
+
+### Revenue Impact
+
+<img width="2505" height="1337" alt="Revenue_impact" src="https://github.com/user-attachments/assets/645994c5-dde4-43c1-bbee-471a23ac2650" />
+
+
+Threshold simulation
+
+<img width="2512" height="1391" alt="Thredhold_simulation" src="https://github.com/user-attachments/assets/d49e728f-570a-4acc-8820-a95533a589fc" />
+
+Late_checkout_analysis
+<img width="2531" height="1465" alt="Late_checkout_analysis" src="https://github.com/user-attachments/assets/ebdbe836-7642-4aa2-88f9-d24ddeb251d2" />
+
+
+
+
+
 # PROJECT - Deployment
 ## Getaround Analysis 🚗
 
