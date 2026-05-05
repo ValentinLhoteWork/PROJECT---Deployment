@@ -26,6 +26,8 @@ Late_checkout_analysis
 <img width="2531" height="1465" alt="Late_checkout_analysis" src="https://github.com/user-attachments/assets/ebdbe836-7642-4aa2-88f9-d24ddeb251d2" />
 
 
+API
+<img width="2487" height="1488" alt="image" src="https://github.com/user-attachments/assets/c888d601-9555-48de-8695-a17170beb611" />
 
 
 
